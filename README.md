@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/road-lights-controller.git
+git clone https://github.com/RiziRajput/road-lights-controller.git
 Navigate to the project directory:
 bash
 Copy code
