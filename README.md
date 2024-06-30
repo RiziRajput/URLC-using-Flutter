@@ -52,8 +52,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please contact [Your Name](mailto:your.email@example.com).
-
----
-
-Feel free to customize this `README.md` file further to fit your project's specifics and add any additional sections or details as needed.
+For any questions or issues, please contact [Rizwan Majeed](https://www.linkedin.com/in/rizwan-majeed-dev/).
+ 
